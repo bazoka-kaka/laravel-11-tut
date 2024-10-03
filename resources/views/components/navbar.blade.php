@@ -3,13 +3,12 @@
         <div class="flex items-center justify-between h-16">
             <div class="flex items-center">
                 <div class="flex-shrink-0">
-                    <img class="w-8 h-8" src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=500"
-                        alt="Your Company">
+                    <img class="w-8 h-8" src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=500" alt="Your Company">
                 </div>
                 <div class="hidden md:block">
                     <div class="flex items-baseline ml-10 space-x-4">
                         <x-nav-link href="/" :active="request()->is('/')">Home</x-nav-link>
-                        <x-nav-link href="/blog" :active="request()->is('posts')">Blog</x-nav-link>
+                        <x-nav-link href="/posts" :active="request()->is('posts')">Blog</x-nav-link>
                         <x-nav-link href="/about" :active="request()->is('about')">About</x-nav-link>
                         <x-nav-link href="/contact" :active="request()->is('contact')">Contact</x-nav-link>
                     </div>
