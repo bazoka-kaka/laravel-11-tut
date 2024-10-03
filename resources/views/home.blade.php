@@ -1,5 +1,5 @@
 <x-layout>
-    <x-slot:title>Homepage</x-slot:title>
-    <h1>Homepage</h1>
+    <x-slot:title>{{ $title }}</x-slot:title>
+    <h1>Welcome to our Homepage!</h1>
 </x-layout>
   
