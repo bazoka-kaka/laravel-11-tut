@@ -3,13 +3,21 @@
 By: Yehezkiel Wiradhika (5025201086)
 
 ### Homepage
+
 ![Homepage](assets/1.png)
 
-### Blog page
-![Blog](assets/2.png)
+### Posts Page
+
+![Posts](assets/2.png)
+
+### Single Blog Page
+
+![Post](assets/3.png)
 
 ### About page
-![About](assets/3.png)
+
+![About](assets/4.png)
 
 ### Contact page
-![Contact](assets/4.png)
+
+![Contact](assets/5.png)
